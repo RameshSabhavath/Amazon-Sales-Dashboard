@@ -16,6 +16,11 @@
 * *Technology dominates revenue, while Furniture shows lower profit margins*.
 * *Consumer segment contributes nearly 50% of total sales*.
 
+<p align="center">
+  <img src="Dashboard.jpeg" width="1100" height="500"/>
+</p>
+
+
 ## 📊 Results & Business Outcomes
 
 ✓ Total Sales: ~₹2.29M | Total Profit: ~₹286K | Avg Profit Margin: ~12.5%   
