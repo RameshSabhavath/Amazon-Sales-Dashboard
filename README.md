@@ -56,7 +56,7 @@
 * *Stands out through multi-level segmentation (Product + City + State) and KPI-focused design.*
 
 
-_______________________________________________Developed by RAMESH SABHAVATH 👨🏼‍💻
+___________________________________Developed by RAMESH SABHAVATH 👨🏼‍💻
 
 
 
